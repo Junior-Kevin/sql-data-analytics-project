@@ -82,29 +82,3 @@ ORDER BY 1;
 text
 
 
-### Alternative Cleaner Version (Less Icons):
-```markdown
-# SQL Data Analytics Project
-
-📊 A comprehensive collection of SQL scripts for data exploration, analytics, and reporting.
-
-## 📁 Repository Structure
-- `01_database_exploration/` - Schema analysis and data quality checks
-- `02_measures_and_metrics/` - KPI calculations and business metrics
-- `03_time_based_analysis/` - Trend analysis and period comparisons
-- `04_cumulative_analytics/` - Running totals and moving averages
-- `05_segmentation/` - RFM and clustering analysis
-- `06_performance_optimization/` - Query optimization techniques
-
-## 🚀 Quick Start
-1. **Clone** the repository
-2. **Import** sample data into your SQL database
-3. **Execute** scripts based on your needs
-4. **Customize** for your specific schema
-
-## 🔗 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://jkport.pythonanywhere.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kevin-junior)
-
-## 📄 License
-MIT License - see LICENSE file for details.
